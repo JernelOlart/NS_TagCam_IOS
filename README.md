@@ -31,7 +31,7 @@ Ideal para inspecciones técnicas, verificación documental, georreferenciación
 ## 📸 Capturas de Pantalla
 
 ### Inicio
-![Landscape Mode](./Screenshots/000021.png)
+![Landscape Mode](NS_TagCam_IOS/Screenshots/000021.png)
 
 
 ### Vista de Cámara con Etiquetas
