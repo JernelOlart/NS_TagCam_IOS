@@ -43,4 +43,4 @@ Ideal para inspecciones técnicas, verificación documental, georreferenciación
 
 
 ### Modo Horizontal
-![Landscape Mode](./Screenshots/000011.png)
+![Landscape Mode](Screenshots/000011.PNG)
