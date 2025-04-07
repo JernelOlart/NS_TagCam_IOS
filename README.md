@@ -27,3 +27,20 @@ Ideal para inspecciones técnicas, verificación documental, georreferenciación
 	•	AVFoundation
 	•	MapKit (para geocodificación inversa)
 	•	Info.plist para permisos y configuraciones clave
+
+## 📸 Capturas de Pantalla
+
+### Inicio
+![Landscape Mode](./Screenshots/000021.png)
+
+
+### Vista de Cámara con Etiquetas
+![Camera View](./Screenshots/000031.png)
+
+
+### Modo Vertical
+![Landscape Mode](./Screenshots/000041.png)
+
+
+### Modo Horizontal
+![Landscape Mode](./Screenshots/000011.png)
